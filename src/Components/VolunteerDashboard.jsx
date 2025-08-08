@@ -1,6 +1,7 @@
 
 import React, { useEffect, useState } from "react";
 import axios from "axios";
+import LogoutButton from "./LogoutButton";
 
 export default function VolunteerDashboard() {
   const [resources, setResources] = useState([]);
@@ -37,6 +38,7 @@ export default function VolunteerDashboard() {
           ))}
         </ul>
       )}
+      <LogoutButton/>
     </div>
     
     
