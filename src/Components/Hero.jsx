@@ -83,7 +83,7 @@ export default function Hero() {
       </section>
 
       {/* Slideshow CSS */}
-      <style jsx>{`
+      <style jsx>{
         @keyframes fade {
           0%,
           100% {
@@ -105,7 +105,7 @@ export default function Hero() {
           background-image: url('https://images.unsplash.com/photo-1569060368645-4ab30c8d8b0e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
         }
        
-      `}</style>
+      }</style>
     </>
   );
 }

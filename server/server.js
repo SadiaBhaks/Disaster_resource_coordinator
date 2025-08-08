@@ -5,9 +5,11 @@ import cors from 'cors';
 import authRoutes from './routes/auth.js';
 import requestRoutes from './routes/requests.js';
 
+
 const app = express();
 app.use(cors());
 app.use(express.json());
+
 
 // ✅ MySQL connection
 const db = mysql.createConnection({
