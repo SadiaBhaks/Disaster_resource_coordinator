@@ -20,7 +20,7 @@ ER-diagram:
 <img width="856" height="411" alt="Image" src="https://github.com/user-attachments/assets/9e107718-293d-4e1e-b3e7-ea7238751b19" />
 
 
-VIDEO PRESENTATION:
 
-https://drive.google.com/file/d/1ym7_Ne41qTlIC2jhy0ju3zdVhTDUVm_p/view?usp=sharing
+
+
 
